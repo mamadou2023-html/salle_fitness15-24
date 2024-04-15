@@ -1,0 +1,42 @@
+[
+    {
+        "nom": "Doe",
+        "prenom": "John",
+        "naissance": "1990-05-15",
+        "photo": "john_doe.jpg",
+        "email": "john.doe@example.com",
+        "mot_passe": "MotDePasse123"
+    },
+    {
+        "nom": "Smith",
+        "prenom": "Emma",
+        "naissance": "1985-09-20",
+        "photo": "emma_smith.jpg",
+        "email": "emma.smith@example.com",
+        "mot_passe": "Emma1234"
+    },
+    {
+        "nom": "Garcia",
+        "prenom": "Maria",
+        "naissance": "1992-03-10",
+        "photo": "maria_garcia.jpg",
+        "email": "maria.garcia@example.com",
+        "mot_passe": "Maria5678"
+    },
+    {
+        "nom": "Chen",
+        "prenom": "Li",
+        "naissance": "1988-11-25",
+        "photo": "li_chen.jpg",
+        "email": "li.chen@example.com",
+        "mot_passe": "ChenLi999"
+    },
+    {
+        "nom": "Kim",
+        "prenom": "Ji-hye",
+        "naissance": "1995-07-02",
+        "photo": "ji_hye_kim.jpg",
+        "email": "jihye.kim@example.com",
+        "mot_passe": "JiHye123"
+    }
+]
